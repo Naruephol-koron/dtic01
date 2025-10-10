@@ -5,7 +5,7 @@
    " " double quote, ' ' single qoute, # hash, / slash, \ back slash
    : colon, ; semicolon, ( ) round bracket, [ ] square bracket 
    { } curly bracket, < > anggle bracket, | Pipe, & ampersand
-   ` backtick (Alt + 9 + 6)
+   ` backtick (Alt + 9 + 6) ^ caret
 */ 
 
 #include "stdio.h" //หริอ <stdio.h>
